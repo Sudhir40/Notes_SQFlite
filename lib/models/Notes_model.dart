@@ -1,4 +1,4 @@
-import 'dart:math';
+
 
 import 'package:dabasesqflite/Database_helper/Appdb.dart';
 class note_mode{
